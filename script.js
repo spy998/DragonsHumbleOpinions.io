@@ -16,6 +16,7 @@ const term =  $('body').terminal({
 }, 
 {
     onInit: function(term) {
+        //comments
         console.log('Version 0.36');
         term.echo('To begin, type query, then your question surrounded by quotes.', { typing: true, delay: 75 });
         //term.echo('Ah. You have found me. You ARE one of hers. Seeking knowledge. Wanting to hear secrets. I am here to tell. To teach. Tell me, my student. What can I give you?', { typing: true, delay: 75});
