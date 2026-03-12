@@ -7,7 +7,7 @@ body {
     line-height: 150%;
 }
 
-tr {
+#tr {
     color: #ffffff;
     background-color: #646464;
     padding: 20px;
