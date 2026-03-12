@@ -1,6 +1,9 @@
-#main {
+body {
     color: #ffffff;
     background-color: #646464;
+}
+
+#main {
     padding: 20px;
     font-family: Arial, sans-serif;
     font-size: 125%;
@@ -8,10 +11,8 @@
 }
 
 #tr {
-    color: #ffffff;
-    background-color: #646464;
     padding: 20px;
     font-family: Arial, sans-serif;
     font-size: 125%;
-    line-height: 100%;
+    line-height: 120%;
 }
